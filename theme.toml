@@ -24,12 +24,7 @@ DefaultContentLanguage = "zh-cn"
 
 min_version = "0.87.0"
 
-[Params]
-    description = "鲭鱼的博客"
 
-    mainSections = ["post", "zh-cn"]
-
-    featuredImage = "images/01.png"
 [author]
 name = "Jimmy Cai"
 homepage = "https://jimmycai.com"
